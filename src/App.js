@@ -59,6 +59,9 @@ const App = () =>{
                     </div>
                 )
             }
+
+            <h1>Made By: Shalom Shahzad</h1>
+
          </div>
     );      
 }
